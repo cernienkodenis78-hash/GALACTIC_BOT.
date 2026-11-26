@@ -1,0 +1,12 @@
+{
+  "name": "aternos-watchdog-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scheduled Bedrock server status monitor",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minecraft-server-util": "^5.4.4"
+  }
+}
